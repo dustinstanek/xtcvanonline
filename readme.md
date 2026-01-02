@@ -1,7 +1,8 @@
 ## XTC VAN
 
-> GAME:
-https://dustinstanek.github.io/xtc-van
+GAME:
+https://dustinstanek.github.io/XTCVAN
+> MOBILE: https://dustinstanek.github.io/xtcvanonline/
 <h1 align="center">
   <br>
   <a href="https://dustinstanek.github.io/xtc-van" target="_blank"><img width="636" src="assets/VanPreview.png" alt="xtc-van"></a>
